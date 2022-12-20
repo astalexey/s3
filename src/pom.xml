@@ -10,10 +10,6 @@
     <build>
         <finalName>java-s3</finalName>
     </build>
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-    </properties>
     <dependencies>
         <!-- junit 5, unit test -->
         <dependency>
